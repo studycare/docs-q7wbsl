@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-61irep.pulaucuan.online/sitemap.xml
